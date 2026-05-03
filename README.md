@@ -1,6 +1,6 @@
-# Semantic Search Engine
+# Nexus Search API
 
-A semantic search engine built in **Go**, using **PostgreSQL + pgvector** for vector storage and **Ollama** for local LLM inference. Designed to be domain-agnostic — the same pipeline works across any text corpus.
+A Nexus Search API built in **Go**, using **PostgreSQL + pgvector** for vector storage and **Ollama** for local LLM inference. Designed to be domain-agnostic — the same pipeline works across any text corpus.
 
 > **Status:** Phase 1 — core engine under active development.
 
